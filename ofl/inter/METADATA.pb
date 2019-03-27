@@ -1,5 +1,5 @@
 name: "Inter"
-designer: "UNKNOWN"
+designer: "Rasmus Andersson"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2019-03-27"
